@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=180&section=header&text=SINKID&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Merhaba%2C+ben+sinkid_;%3E+Python+%7C+Algoritma+%7C+Oyun+Geli%C5%9Ftirme;%3E+Hacktools+geli%C5%9Ftiriyorum;%3E+while(true)+%7B+kod()%3B+%7D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Merhaba%2C+ben+sinkid_;%3E+Python+%7C+Algoritma+%7C+Oyun+Geli%C5%9Ftirme;%3E+Hacktools+geli%C5%9Ftiriyorum;%3E+%3B+%7D" alt="Typing SVG" />
 
 </div>
 
